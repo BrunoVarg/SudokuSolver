@@ -1,7 +1,11 @@
 TAG - 2021.1
+
 Universidade de Brasília
+
 Bruno Vargas de Souza - 202006564
-Referências - 
+
+# Referências
+
 https://afteracademy.com/blog/sudoku-solver
 https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/
 https://www.cmmprogressivo.net/2019/12/Como-Gerar-Numeros-Aleatorios-Randomicos-rand-srand.html
